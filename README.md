@@ -251,21 +251,25 @@ Highest paying region:
 
 # 📸 Dashboard Preview
 
-### Overview
+<h2>📊 Dashboard Preview</h2>
 
-<img src="Images/AI-ML Job Analysis-1.png">
+<h3>Overview Dashboard</h3>
+<img src="AI & ML Jobs Analysis & Dashboard/Images/AI-ML-Job-Analysis-1.png" width="100%" alt="Overview Dashboard">
 
-### Location Insights
+<br><br>
 
-<img src="Images/AI-ML Job Analysis-2.png">
+<h3>Location Insights</h3>
+<img src="AI & ML Jobs Analysis & Dashboard/Images/AI-ML-Job-Analysis-2.png" width="100%" alt="Location Insights">
 
-### Company & Role Insights
+<br><br>
 
-<img src="Images/AI-ML Job Analysis-3.png">
+<h3>Company & Role Insights</h3>
+<img src="AI & ML Jobs Analysis & Dashboard/Images/AI-ML-Job-Analysis-3.png" width="100%" alt="Company and Role Insights">
 
-### Skill Insights
+<br><br>
 
-<img src="Images/AI-ML Job Analysis-4.png">
+<h3>Skill & Hiring Insights</h3>
+<img src="AI & ML Jobs Analysis & Dashboard/Images/AI-ML-Job-Analysis-4.png" width="100%" alt="Skill and Hiring Insights">
 
 ---
 
