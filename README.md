@@ -23,9 +23,9 @@ The goal of this project is to transform **raw job market data into meaningful i
 
 ---
 
-# 🔗 Live Dashboard
+# 🔗 Dashboard
 
-👉 **View the Full Dashboard Here**
+👉 **View the Dashboard Here**
 
 🔗  
 https://drive.google.com/file/d/1YeUE60rpBg_3Wbqt71HhAkM5LQ4XQyhD/view?usp=sharing
